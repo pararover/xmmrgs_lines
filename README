@@ -1,3 +1,5 @@
+Code developers: Parag Bhattacharya, Bansy Lyngdoh, Jessica Nongrum
+
 1. Run the file setup.py. This would perform the following tasks:
 	a. Install the necessary Python packages
 	b. Copy the relevant data files into their appropriate locations
