@@ -1,0 +1,25 @@
+at_num,sp_name,sp_num,ion_ch,elem_name,element,isoel_seq,ground_shells,ground_conf,ground_term,ground_J,ionization_conf,ionization_term,ionization_J,ionization_energy,uncertainty,ref
+1,H I,1,0,Hydrogen,H,H,1s,1s,2S,1/2,,,,13.59843449,8E-08,HDEL
+2,He II,2,1,Helium,He,H,1s,1s,2S,1/2,,,,54.417765,3E-07,L7188c95
+6,C V,5,4,Carbon,C,He,1s2,1s2,1S,0,1s,2S,1/2,392.090515,2.5E-05,L10054
+6,C VI,6,5,Carbon,C,H,1s,1s,2S,1/2,,,,489.993194,7E-06,L7188
+7,N VI,6,5,Nitrogen,N,He,1s2,1s2,1S,0,1s,2S,1/2,552.06732,4E-05,L10054
+7,N VII,7,6,Nitrogen,N,H,1s,1s,2S,1/2,,,,667.046116,1.3E-05,L7188
+8,O VI,6,5,Oxygen,O,Li,1s2.2s,1s2.2s,2S,1/2,1s2,1S,0,138.1189,0.0021,L4713
+8,O VII,7,6,Oxygen,O,He,1s2,1s2,1S,0,1s,2S,1/2,739.32682,6E-05,L10054
+8,O VIII,8,7,Oxygen,O,H,1s,1s,2S,1/2,,,,871.40988,3E-05,L7188
+10,Ne VII,7,6,Neon,Ne,Be,1s2.2s2,1s2.2s2,1S,0,2s,2S,1/2,207.271,0.012,L9089
+10,Ne VIII,8,7,Neon,Ne,Li,1s2.2s,1s2.2s,2S,1/2,1s2,1S,0,239.097,0.0019,L9090
+10,Ne IX,9,8,Neon,Ne,He,1s2,1s2,1S,0,1s,2S,1/2,1195.80783,0.00015,L10054
+10,Ne X,10,9,Neon,Ne,H,1s,1s,2S,1/2,,,,1362.19915,9E-05,L7188
+12,Mg IX,9,8,Magnesium,Mg,Be,1s2.2s2,1s2.2s2,1S,0,2s,2S,1/2,327.99,0.04,L11770
+12,Mg X,10,9,Magnesium,Mg,Li,1s2.2s,1s2.2s,2S,1/2,1s2,1S,0,367.489,0.007,L16264c99
+12,Mg XI,11,10,Magnesium,Mg,He,1s2,1s2,1S,0,1s,2S,1/2,1761.80487,0.0002,L12128
+12,Mg XII,12,11,Magnesium,Mg,H,1s,1s,2S,1/2,,,,1962.66365,0.00012,L7188
+26,Fe XV,15,14,Iron,Fe,Mg,[Ne].3s2,2p6.3s2,1S,0,3s,2S,1/2,456.2,0.5,L17943
+26,Fe XVI,16,15,Iron,Fe,Na,[Ne].3s,2p6.3s,2S,1/2,2p6,1S,0,489.312,0.014,L11770
+26,Fe XVII,17,16,Iron,Fe,Ne,1s2.2s2.2p6,2s2.2p6,1S,0,2p5,2P,3/2,1262.7,0.7,L11770
+26,Fe XVIII,18,17,Iron,Fe,F,1s2.2s2.2p5,2s2.2p5,2P*,3/2,2p4,3P,2,1357.8,1.9,L11770
+26,Fe XIX,19,18,Iron,Fe,O,1s2.2s2.2p4,2s2.2p4,3P,2,2p3,4S,3/2,1460,3,L11770
+26,Fe XX,20,19,Iron,Fe,N,1s2.2s2.2p3,2s2.2p3,4S*,3/2,2p2,3P,0,1575.6,0.5,L7185
+26,Fe XXI,21,20,Iron,Fe,C,1s2.2s2.2p2,2s2.2p2,3P,0,2p,2P,1/2,1687,1,L11770

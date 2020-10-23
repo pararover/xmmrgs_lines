@@ -1,0 +1,19 @@
+1. Run the file setup.py. This would perform the following tasks:
+	a. Install the necessary Python packages
+	b. Copy the relevant data files into their appropriate locations
+
+2. Test the code using Python version 3 by running the three Python scripts, say as follows:
+	python3 line-overlaid-flux.py fluxes/01-MRVEL_fluxed1000.FIT
+	python3 flux-inspect.py fluxes/01-MRVEL_fluxed1000.FIT
+	python3 line-shift.py fluxes/01-MRVEL_fluxed1000.FIT
+	
+3. To use the defined methods, include this line in your own Python code:
+	from astro_da.xmmrgs_lines import *
+
+4. To inspect the code, access the following file:
+	~/.local/lib/python3.X/site-packages/astro_da/xmmrgs_lines.py
+	
+	* here X would be replaced with the specific sub-version of Python on the local host, e.g. 3.5, 3.6 etc.
+
+5. To modify the list of ions being taken into consideration by the code, access the following file:
+	~/astro-data/ion.list
